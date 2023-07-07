@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#kyungpook national university, software#<br>
+#kyungpook national university, software<br>
 🌱🌱🌱Studying🌱🌱🌱
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanToo2&show_icons=true&theme=tokyonight)<br>
