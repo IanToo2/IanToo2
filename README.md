@@ -1,4 +1,4 @@
-### Hi there 👋
+### 경북대학교 소프트웨어학과 재학중... ###
 
 <!--
 **IanToo2/IanToo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
