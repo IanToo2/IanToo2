@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Studying....
+🌱🌱🌱Studying🌱🌱🌱
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanToo2&show_icons=true&theme=tokyonight)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanToo2&layout=compact&theme=gruvbox)<br>
