@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlawjddla0203)](https://solved.ac/rlawjddla0203)
-<img src="http://mazandi.herokuapp.com/api?handle=rlawjddla0203&theme=warm"/><br>
+
 <br><br><br>
