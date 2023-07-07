@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanToo2&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanToo2&layout=compact&theme=gruvbox)<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlawjddla0203)](https://solved.ac/rlawjddla0203)><br>
+  <img src="http://mazandi.herokuapp.com/api?handle={rlawjddla0203}&theme=warm"/><br>
 
 
 <img src="https://img.shields.io/badge/#3776AB?style=flat-square&logo=simpleicons_python&logoColor=white"/>
