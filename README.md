@@ -1,5 +1,3 @@
-### 경북대학교 소프트웨어학과 재학중... ###
-
 <!--
 **IanToo2/IanToo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+kyungpook national university, software
 🌱🌱🌱Studying🌱🌱🌱
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanToo2&show_icons=true&theme=tokyonight)<br>
