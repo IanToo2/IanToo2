@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# My dream is to be a wanderer
+# KIM JUNG IN
 <br>
 🌱🌱🌱Studying🌱🌱🌱
 
