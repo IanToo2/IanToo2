@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# kyungpook national university, software
+# My dream is to be a wanderer
 <br>
 🌱🌱🌱Studying🌱🌱🌱
 
