@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 
+<br><br><br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlawjddla0203)](https://solved.ac/rlawjddla0203)
+
+
 <br>
 <br>
 <br>
@@ -35,6 +40,4 @@ Here are some ideas to get you started:
 <br><br><br>
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlawjddla0203)](https://solved.ac/rlawjddla0203)
 
-<br><br><br>
