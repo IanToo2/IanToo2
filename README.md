@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-F05032?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat&logo=GoogleColab&logoColor=white"/>
 
 </div>
 <div align = "center">
