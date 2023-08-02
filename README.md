@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 🌱 Now studying
  
  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
- 
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <br>
 🌱 I’m currently learning ...
 <br>
