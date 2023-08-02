@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # KIM JUNG IN
 
 <div align = "center">
- <h6>🌱Study🌱</h6> <br>
+ <h3>🌱Study🌱</h3> <br>
  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
  <br>
@@ -24,10 +24,10 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 </div>
 <div align = "center">
- <h6>Tools</h6>
+ <h3>Tools</h3>
 </div>
 <div align = "center">
- <h6>Contact</h6>
+ <h3>Contact</h3>
  
 </div>
 <br>
