@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=KimJungIn&animation=fadeIn&fontColor=B3E5FC&fontSize=100&textBg=White)
 
+***
+
 <div align = "center">
  <h3>Introduce🤲</h3>
  Python과 Django를 중심으로 개발자가 되기 위해서 풀스택으로 다양하게 공부중인 대학생입니다.
