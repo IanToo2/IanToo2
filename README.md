@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # KIM JUNG IN
 <div align = "center">
  <h3>Introduce🤲</h3>
- Python Django를 중심으로 개발자가 되기 위해서 다양하게 공부중인 대학생입니다.
+ Python과 Django를 중심으로 개발자가 되기 위해서 풀스택으로 다양하게 공부중인 대학생입니다.
 </div>
 
 <div align = "center">
