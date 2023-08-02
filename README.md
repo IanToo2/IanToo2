@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 </div>
 <div align = "center">
- <h3>Tools✔️</h3>
+ <h3>Tools🛠️</h3>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-F05032?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 </div>
 <div align = "center">
- <h3>Contact✔️</h3>
+ <h3>Contact✉️</h3>
  
 </div>
 <br>
