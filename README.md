@@ -36,6 +36,10 @@ Here are some ideas to get you started:
  <h3>Contact✉️</h3>
  
 </div>
+<div>
+ [![Solved.ac
+rlawjddla0203](http://mazassumnida.wtf/api/v2/generate_badge?boj={rlawjddla0203})](https://solved.ac/{rlawjddla0203})
+</div>
 <br>
 
 ***
