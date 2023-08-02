@@ -24,17 +24,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 </div>
 <br>
-🌱 I’m currently learning ...
-<br>
-  
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=red"/><br>
 
-  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=red"/><br>
-<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanToo2)
 ![IanToo2's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanToo2)
