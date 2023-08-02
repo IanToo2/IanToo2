@@ -41,7 +41,7 @@ Here are some ideas to get you started:
  <h3>Contact✉️</h3>
   
 [![Send Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:rlawjddla0203@gmail.com)
-[![Discord](https://img.shields.io/badge/Join-Discord-7289DA?style=flat&logo=discord&logoColor=white)]([https://discord.gg/your_discord_invite_link_here](https://discord.gg/Vp9rdJcU))
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)]([https://discord.gg/your_discord_invite_link_here](https://discord.gg/Vp9rdJcU))
 </div>
 
 
