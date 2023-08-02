@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # KIM JUNG IN
+🌱 Now studying
+ 
+ <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
+ 
 <br>
 🌱 I’m currently learning ...
 <br>
