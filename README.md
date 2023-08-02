@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <div align = "center">
  <h3>Tools🛠️</h3>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Window-0078D6?style=flat&logo=Window&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-F05032?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat&logo=GoogleColab&logoColor=white"/>
