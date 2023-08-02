@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # KIM JUNG IN
 <br>
-<div style="height: auto; width: 100%; border-bottom:1px solid gold;">
+<div style="height: auto; width: 100%; border-bottom:1px solid White;">
 🌱 I’m currently learning ...
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
