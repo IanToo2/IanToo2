@@ -18,6 +18,7 @@ Here are some ideas to get you started:
  <h1>🌱 Now studying</h1> <br>
  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+ <br>
  <img src="https://img.shields.io/badge/HTML-E34F26style=flat&logo=HTML&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS&logoColor=white"/>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
