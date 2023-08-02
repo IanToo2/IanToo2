@@ -13,9 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # KIM JUNG IN
+<div align = "center">
+ <h3>Introduce🤲</h3>
+ Python Django를 중심으로 개발자가 되기 위해서 다양하게 공부중인 대학생입니다.
+</div>
 
 <div align = "center">
- <h3>Study✔️</h3> <br>
+ <h3>Study👀</h3> <br>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>
