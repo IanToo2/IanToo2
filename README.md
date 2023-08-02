@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=KimJungIn&animation=fadeIn&fontSize=100)
-# KIM JUNG IN
+
 <div align = "center">
  <h3>Introduce🤲</h3>
  Python과 Django를 중심으로 개발자가 되기 위해서 풀스택으로 다양하게 공부중인 대학생입니다.
