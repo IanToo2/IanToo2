@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-
+<div aligb = "center">
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanToo2)
 ![IanToo2's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanToo2)
-<br><br><br>
+</div>
