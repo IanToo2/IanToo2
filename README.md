@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=KimJungIn%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=KimJungIn&animation=fadeIn&fontSize=100)
 # KIM JUNG IN
 <div align = "center">
  <h3>Introduce🤲</h3>
