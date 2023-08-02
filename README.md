@@ -41,7 +41,10 @@ Here are some ideas to get you started:
  <h3>Contact✉️</h3>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+ 
+[![Send Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:rlawjddla0203@gmail.com)
 </div>
+
 
 ***
 
