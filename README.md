@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 </div>
+
 <div align = "center">
  <h3>Tools🛠️</h3>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
@@ -41,7 +42,7 @@ Here are some ideas to get you started:
 <div align = "center">
  <h3>Contact✉️</h3>
   
-[![Send Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:rlawjddla0203@gmail.com)
+[![Send Email](https://img.shields.io/badge/rlawjddla0203@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:rlawjddla0203@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)]([https://discord.gg/your_discord_invite_link_here](https://discord.gg/Vp9rdJcU))
 </div>
 
