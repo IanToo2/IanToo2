@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 
 <div align = "center">
 
-<a href='httpsme-qr.com' border='0' style='cursorpointer;displayblock'img src='httpscdn2.me-qr.comqr72277898.pngv=1691914048' alt='Create qr code for free'aa href='httpsme-qr.com' border='0' style='cursordefault;displaynone'Create qr code for freea>
  
  [![Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIanToo2&count_bg=%2374B2E7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  </div>
