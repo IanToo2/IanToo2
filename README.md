@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align = "center">
  <h3>Introduce🤲</h3>
- Python과 Django를 중심으로 개발자가 되기 위해서 공부중인 대학생입니다.
+ 백엔드 / 서버 개발자가 되기 위해서 공부중인 대학생입니다.
 </div>
 
 <div align = "center">
