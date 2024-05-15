@@ -38,18 +38,15 @@ Here are some ideas to get you started:
 
 <div align = "center">
  <h3>Tools🛠️</h3>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Window-0078D6?style=flat&logo=Windows&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/GitHub-F05032?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat&logo=GoogleColab&logoColor=white"/>
 
 </div>
 <div align = "center">
  <h3>Contact✉️</h3>
   
-[![Send Email](https://img.shields.io/badge/rlawjddla0203@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:rlawjddla0203@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)]([https://discord.gg/your_discord_invite_link_here](https://discord.gg/Vp9rdJcU))
+ [![Send Email](https://img.shields.io/badge/rlawjddla0203@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:rlawjddla0203@gmail.com)
+ [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)]([https://discord.gg/your_discord_invite_link_here](https://discord.gg/Vp9rdJcU))
 </div>
 
 <div align = "center">
