@@ -21,8 +21,6 @@ Here are some ideas to get you started:
  백엔드 / 서버 개발자가 되기 위해서 공부중인 대학생입니다.
 </div>
 <div align = "center">
- <h3>Study👀</h3> <br>
-
   <br><h3>Backend</h3><br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -59,20 +57,20 @@ Here are some ideas to get you started:
  
  [![Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIanToo2&count_bg=%2374B2E7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanToo2&layout=compact)
+ 
+
+
 ***
 
-<div align = "center">
- 
- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawjddla0203)](https://solved.ac/rlawjddla0203)
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanToo2&layout=compact&theme=dracula)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawjddla0203)](https://solved.ac/rlawjddla0203)
+
 </div>
+
+
 <br>
 
 ***
-
-<div aligb = "center">
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanToo2)
-![IanToo2's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanToo2)
-</div>
