@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align = "center">
  <h3>Introduce🤲</h3>
- 백엔드 / 서버 개발자가 되기 위해서 공부중인 대학생입니다.
+ 서버 개발자를 꿈꾸고 있습니다.
 </div>
 <div align = "center">
   <br><h3>Backend</h3><br>
