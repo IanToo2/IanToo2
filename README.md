@@ -17,32 +17,32 @@ Here are some ideas to get you started:
 ***
 
 <div align="center">
- <h3>Introduce🤲</h3>
+ <h3>🤲Introduce</h3>
  서버 개발자를 꿈꾸고 있습니다.
 </div>
 
 <div align="center">
-  <h3>Backend</h3>
+  <h3>💻Backend</h3>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </div>
 
 <div align="center">
-  <h3>DB</h3>
+  <h3>🗄️DB</h3>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 </div>
 
 <div align="center">
-  <h3>Cloud</h3>
+  <h3>🌐Cloud</h3>
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20Lightsail-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </div>
 
 <div align="center">
-  <h3>Tools🛠️</h3>
+  <h3>🛠️Tools</h3>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
