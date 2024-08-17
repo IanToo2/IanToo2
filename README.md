@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  <h3>🤲Introduce</h3>
- 지식과 경험을 공유하는 것을 즐기는 개발자입니다.
+ 😄지식과 경험을 공유하는 것을 즐기는 개발자입니다.
 </div>
 
 <div align="center">
