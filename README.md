@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <h3>Contact✉️</h3>
+  <h3>✉️Contact</h3>
  
   [![Send Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rlawjddla0203@gmail.com)
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Vp9rdJcU)
