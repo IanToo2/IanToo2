@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h3>🌐Cloud</h3>
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20Lightsail-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white"/>
 </div>
 
 <div align="center">
